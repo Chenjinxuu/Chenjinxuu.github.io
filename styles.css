@@ -2,9 +2,8 @@
 
 /* Use CSS selectors and rules to style your portfolio page */
 body {
+  color: white;
   font-family: "Comic Sans Ms", bold, sans-serif;
   background-color: black;
 }
-h1 {
-  color: white
-}
+
